@@ -1,2 +1,0 @@
-# PdfMinerRunner
-PdfMinerRunner
